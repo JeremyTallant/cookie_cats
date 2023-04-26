@@ -1,2 +1,1 @@
-# cookie_cats
-Analyzing an A/B test from the popular mobile puzzle game, Cookie Cats.
+# Mobile Games A/B Testing with Cookie Cats
