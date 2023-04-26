@@ -16,7 +16,7 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 
 2. Ensure you have Python installed. If not, you can download and install Python from the [official Python website](https://www.python.org/downloads/).
 ## Contents
-1. **Of cats and cookies:**
+1. **Of cats and cookies:** Read in and take a look at the Cookie cats AB-test data.
 2. **The AB-test data:**
 3. **The distribution of game rounds:**
 4. **Overall 1-day retention:**
