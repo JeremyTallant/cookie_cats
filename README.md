@@ -22,7 +22,7 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 4. **Overall 1-day retention:** Calculate overall 1-day retention.
 5. **1-day retention by AB-group:** Calculate 1-day retention for each AB-group
 6. **Should we be confident in the difference?:** Do a bootstrap analysis of 1-day retention and plot the result.
-7. **Zooming in on the difference:**
+7. **Zooming in on the difference:** Calculate and plot the % difference in 1-day retention between the two AB-groups.
 8. **The probability of a difference:**
 9. **7-day retention by AB-group:**
 10. **Bootstrapping the difference again:**
