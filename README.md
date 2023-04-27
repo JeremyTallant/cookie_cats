@@ -21,7 +21,7 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 3. **The distribution of game rounds:** Plot the distribution of game rounds.
 4. **Overall 1-day retention:** Calculate overall 1-day retention.
 5. **1-day retention by AB-group:** Calculate 1-day retention for each AB-group
-6. **Should we be confident in the difference?:**
+6. **Should we be confident in the difference?:** Do a bootstrap analysis of 1-day retention and plot the result.
 7. **Zooming in on the difference:**
 8. **The probability of a difference:**
 9. **7-day retention by AB-group:**
