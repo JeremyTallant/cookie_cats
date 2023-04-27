@@ -18,7 +18,7 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 ## Contents
 1. **Of cats and cookies:** Read in and take a look at the Cookie cats AB-test data.
 2. **The AB-test data:** Count the players in each AB-group.
-3. **The distribution of game rounds:**
+3. **The distribution of game rounds:** Plot the distribution of game rounds.
 4. **Overall 1-day retention:**
 5. **1-day retention by AB-group:**
 6. **Should we be confident in the difference?:**
