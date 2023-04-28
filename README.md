@@ -25,5 +25,5 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 7. **Zooming in on the difference:** Calculate and plot the % difference in 1-day retention between the two AB-groups.
 8. **The probability of a difference:** Calculate the probability that a gate at level 30 gives higher 1-day retention.
 9. **7-day retention by AB-group:** Calculate the 7-day retention for each AB-group
-10. **Bootstrapping the difference again:**
+10. **Bootstrapping the difference again:** Do a bootstrap analysis for the difference in 7-day retention.
 11. **The conclusion:**
