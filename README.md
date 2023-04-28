@@ -26,4 +26,4 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 8. **The probability of a difference:** Calculate the probability that a gate at level 30 gives higher 1-day retention.
 9. **7-day retention by AB-group:** Calculate the 7-day retention for each AB-group
 10. **Bootstrapping the difference again:** Do a bootstrap analysis for the difference in 7-day retention.
-11. **The conclusion:**
+11. **The conclusion:** Given the data and the analysis should we move the gate to level 40, or keep it at level 30?
